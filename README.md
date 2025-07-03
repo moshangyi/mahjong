@@ -36,7 +36,8 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
    - The dealer discards a tile (the first dicarded tile) by tapping it.
    - The next player draws a tile by tapping "Head", then discards one.
 9. Pung
-   - When you have a PUNG or KONG your massage area will turn to purple color tap Pung button will stop other players.
+   - When you have a PUNG or KONG your massage area will turn to purple color, you can stop others by tap Pung button.
+   - To do so you will reveal that you have 2 or 3 the same tiles. If you don't need the PUNG/KONG do nothing.
    - Then in popup window you will make a dicision if you really want PUNG/KONG.
    - If the answer is NO other players been released.
    - If the answer is YES you will be ask if you want PUNG or KONG if you have 3 same tile that discarded by others.
@@ -45,11 +46,11 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
    - If you formed a KONG you need to tap the tail button to get a replacement.
    - Then you discard a tile in your hand by tap it.
 10. Chow
-   - To form a CHOW you can tap the center tile discarded by your left hand player.
-   - The center tile will move to your CHOW/PUNG/KONG display area.
-   - Then you need to tap other two tiles in your hand to form CHOW, then discard a tile.
+    - To form a CHOW you can tap the center tile discarded by your left hand player.
+    - The center tile will move to your CHOW/PUNG/KONG display area.
+    - Then you need to tap other two tiles in your hand to form CHOW, then discard a tile.
 11. Win
-   - Play continues until someone wins and taps the "Bingo" button.
+    - Play continues until someone wins and taps the "Bingo" button.
 ---
 
 ## 📱 Notes
