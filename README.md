@@ -20,7 +20,7 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 2. Get IP & Port
    - After the server starts, an IP address and port number will appear in the message area, e.g., `192.168.1.8:53842`.
 3. Other Players Join
-   - Up to 3 other players enter the host's IP and port in their message area and tap **Join** to connect.
+   - Up to 3 other players enter the host's IP and port in their message area and tap Join button to connect.
 4. For Solo Play
    - Tap the other 3 seat labels marked "A" (available). They will change to "O" (occupied).
 5. Seat Assignment
@@ -33,9 +33,22 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
    - If you have flower tiles, claim them by tapping the tile, then tap the "Tail" button to get a replacement tile.
    - If you have no flowers, tap "Pass".
 8. Play
-   - The dealer discards a tile by tapping it.
+   - The dealer discards a tile (the first dicarded tile) by tapping it.
    - The next player draws a tile by tapping "Head", then discards one.
-9. Win
+9. Pung
+   - When you have a PUNG or KONG your massage area will turn to purple color tap Pung button will stop other players.
+   - Then in popup window you will make a dicision if you really want PUNG/KONG.
+   - If the answer is NO other players been released.
+   - If the answer is YES you will be ask if you want PUNG or KONG if you have 3 same tile that discarded by others.
+   - After you tap YES the center tile (discarded by others) will move to your CHOW/PUNG/KONG display area.
+   - Then you need to tap the same tiles in your hand to form PUNG or KONG.
+   - If you formed a KONG you need to tap the tail button to get a replacement.
+   - Then you discard a tile in your hand by tap it.
+10. Chow
+   - To form a CHOW you can tap the center tile discarded by your left hand player.
+   - The center tile will move to your CHOW/PUNG/KONG display area.
+   - Then you need to tap other two tiles in your hand to form CHOW, then discard a tile.
+11. Win
    - Play continues until someone wins and taps the "Bingo" button.
 ---
 
