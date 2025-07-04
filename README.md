@@ -8,7 +8,7 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 - ✅ Flexible Multiplayer — Play with 1, 2, 3, or 4 players.
 - ✅ Local Wi-Fi Play — Play on the same local network: personal hotspot, Starbucks Wi-Fi, airport Wi-Fi, etc.
 - ✅ Online Play — Play over the Internet by configuring port forwarding on your home router.
-- ✅ Robot Players — Turn on robot players to watch and learn how to play International Mahjong.
+- ✅ Beginner-friendly — Turn on robot players to watch and learn how to play International Mahjong.
 - ✅ Game Language — English and Chinese depending on your device settings or App language settings on Apple devices.
 
 
