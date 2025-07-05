@@ -58,8 +58,11 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 
 - Make sure all devices are connected to the same Wi-Fi or have correct port forwarding set up for Internet play.
 - Observe robot players to learn the flow and strategy of International Mahjong.
+- Here is a demo video: https://www.youtube.com/watch?v=MvDBLyGs1dE&pp=0gcJCcEJAYcqIYzv
 
 Enjoy playing and learning Mahjong!
+
+
 
 # 麻将
 
@@ -133,5 +136,6 @@ Enjoy playing and learning Mahjong!
 
 - 请确保所有设备连接到同一 Wi-Fi，或正确设置好互联网端口转发。
 - 可以观察机器人玩家来学习国际麻将的流程和策略。
+- 这里有一个演示小视频：https://www.youtube.com/watch?v=6MYDkktmcEA
 
 祝你玩得开心，胡得漂亮！🀄
