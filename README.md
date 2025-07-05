@@ -45,6 +45,7 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
    - Then you need to tap the same tiles in your hand to form PUNG or KONG.
    - If you formed a KONG you need to tap the tail button to get a replacement.
    - Then you discard a tile in your hand by tap it.
+   - ⚠️If current player discards a tile before you tap Pung button, you will lose the PUNG oppertunity.
 10. Chow
     - To form a CHOW you can tap the center tile discarded by your left hand player.
     - The center tile will move to your CHOW/PUNG/KONG display area.
