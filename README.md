@@ -31,21 +31,21 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
    - Tap the head tile on the wall to break it.
 7. Flowers
    - If you have flower tiles, claim them by tapping the tile, then tap the "Tail" button to get a replacement tile.
-   - If you have no flowers, tap "Pass".
+   - If you have no flowers, next player will get his/her turn automatically.
 8. Play
    - The dealer discards a tile (the first dicarded tile) by tapping it.
    - The next player draws a tile by tapping "Head", then discards one.
 9. Pung
-   - When you have a PUNG or KONG your massage area will turn to purple color, you can stop others by tap Pung button.
-   - To do so you will reveal that you have 2 or 3 the same tiles. If you don't need the PUNG/KONG do nothing.
-   - Then in popup window you will make a dicision if you really want PUNG/KONG.
-   - If the answer is NO other players been released.
-   - If the answer is YES you will be ask if you want PUNG or KONG if you have 3 same tile that discarded by others.
+   - When you have a PUNG or KONG your massage area will turn to purple color and the center tile will flashing, you can stop others by tap center tile.
+   - To do so you will reveal that you have 2 or 3 the same tiles. If you don't need the PUNG/KONG, do nothing (hide information).
+   - Then in the popup window, you will make a dicision if you really want PUNG/KONG.
+   - If the answer is NO other players would been released.
+   - If the answer is YES you will be ask if you want PUNG or KONG if you have 3 same tiles as the one discarded by others.
    - After you tap YES the center tile (discarded by others) will move to your CHOW/PUNG/KONG display area.
    - Then you need to tap the same tiles in your hand to form PUNG or KONG.
    - If you formed a KONG you need to tap the tail button to get a replacement.
    - Then you discard a tile in your hand by tap it.
-   - ⚠️If current player discards a tile before you tap Pung button, you will lose the PUNG oppertunity.
+   - ⚠️If current player discards a tile before you tap the center tile, you will lose the PUNG oppertunity.
 10. Chow
     - To form a CHOW you can tap the center tile discarded by your left hand player.
     - The center tile will move to your CHOW/PUNG/KONG display area.
@@ -58,7 +58,8 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 
 - Make sure all devices are connected to the same Wi-Fi or have correct port forwarding set up for Internet play.
 - Observe robot players to learn the flow and strategy of International Mahjong.
-- Here is a demo video: https://www.youtube.com/watch?v=MvDBLyGs1dE&pp=0gcJCcEJAYcqIYzv
+- Here is a demo video for Solo play: https://www.youtube.com/watch?v=LcIrHsz8K60
+- Here is a demo video for Auto play: https://www.youtube.com/watch?v=kQHz0FtzTI0
 
 Enjoy playing and learning Mahjong!
 
@@ -106,14 +107,14 @@ Enjoy playing and learning Mahjong!
 
 7. **补花**
    - 如果有花牌，先点击花牌然后点击“牌尾”按钮补牌。
-   - 如果没有花牌，点击“轮空”按钮跳过。
+   - 如果没有花牌，下家自动获得出牌权。
 
 8. **首轮出牌**
    - 庄家点击手中的一张牌打出第一张牌。
    - 下一家点击“牌头”按钮摸牌，然后打出一张牌。
 
 9. **碰**
-   - 如果你有可“碰”或“杠”之牌，信息区会变为浅紫色，你可以点击“碰”按钮阻止其他玩家摸牌。
+   - 如果你有可“碰”或“杠”之牌，信息区会变为浅紫色而且中心牌会闪动，你可以点击中心牌阻止其他玩家摸牌。
    - 此时你也透露了自己有二张或三张相同的牌。如果不需要碰/杠，可以什么都不做以免泄露牌的信息。
    - 弹出窗口会让你确认是否要碰/杠。
    - 如果选择“否”，则放弃机会，其他玩家继续。
@@ -122,7 +123,7 @@ Enjoy playing and learning Mahjong!
    - 然后你需要点击手中相同的牌组成碰或杠。
    - 如果组成了杠，还需点击“牌尾”按钮补牌。
    - 最后从手中打出一张牌。
-   - ⚠️如果目前的玩家在你点击”碰”按钮之前完成出牌，你将失去这次碰牌的机会。
+   - ⚠️如果目前的玩家在你点击中心牌之前完成出牌，你将失去这次碰牌的机会。
 
 10. **吃**
     - 要“吃”牌，可以点击左手玩家打出的中心牌。
@@ -138,6 +139,6 @@ Enjoy playing and learning Mahjong!
 
 - 请确保所有设备连接到同一 Wi-Fi，或正确设置好互联网端口转发。
 - 可以观察机器人玩家来学习国际麻将的流程和策略。
-- 这里有一个演示小视频：https://www.youtube.com/watch?v=6MYDkktmcEA
+- 这里有一个演示小视频：https://www.youtube.com/watch?v=SoXLYQctq8A
 
 祝你玩得开心，胡得漂亮！🀄
