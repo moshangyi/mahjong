@@ -52,6 +52,11 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
     - Then you need to tap other two tiles in your hand to form CHOW, then discard a tile.
 11. Win
     - Play continues until someone wins and taps the "Bingo" button.
+12. Rejoing and Exiting
+    - This Mahjong game has a screen sleep prevention feature. While playing, your phone or tablet will not automatically go to sleep.
+    - After finishing a game, please tap the “Quit” button to restore your device’s automatic sleep function.
+    - During a game, any swipe on the control panel or launching another application will automatically exit the Mahjong game.
+    - However, if you rejoin, you can continue playing from where you left off. (you can switch player with this function)
 ---
 
 ## 📱 Notes
@@ -132,6 +137,12 @@ Enjoy playing and learning Mahjong!
 
 11. **胡牌**
     - 玩家们将继续轮流出牌，直到有玩家胡牌并点击“胡牌”按钮。
+
+12. **重新加入和退出**
+    - 此麻将游戏设有防止自动熄屏功能，在打牌当中您的手机或平板电脑不会自动熄屏。
+    - 打牌结束后请点击“退出”按钮，您的手机或电脑将恢复自动熄屏。
+    - 在打牌当中任何控制板面的滑动或其它程序的启动都会自动退出麻将游戏。
+    - 但当您重新加入后您可从上次中断的地方继续打牌。（您可借用此功能更换玩家）
 
 ---
 
