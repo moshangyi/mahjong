@@ -57,6 +57,7 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
     - After finishing a game, please tap the “Quit” button to restore your device’s automatic sleep function.
     - During a game, any swipe on the control panel or launching another application will automatically exit the Mahjong game.
     - However, if you rejoin, you can continue playing from where you left off. (you can switch player with this function)
+    - If the player who runs the server (SVR:ON) exited you have to restart the game.
 ---
 
 ## 📱 Notes
@@ -143,6 +144,7 @@ Enjoy playing and learning Mahjong!
     - 打牌结束后请点击“退出”按钮，您的手机或电脑将恢复自动熄屏。
     - 在打牌当中任何控制板面的滑动或其它程序的启动都会自动退出麻将游戏。
     - 但当您重新加入后您可从上次中断的地方继续打牌。（您可借用此功能更换玩家）
+    - 如果开启伺服器的玩家退出了麻将游戏，则必须重新开始游戏。
 
 ---
 
