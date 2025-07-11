@@ -66,6 +66,7 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 - Observe robot players to learn the flow and strategy of International Mahjong.
 - Here is a demo video for Solo play: https://www.youtube.com/watch?v=LcIrHsz8K60
 - Here is a demo video for Auto play: https://www.youtube.com/watch?v=kQHz0FtzTI0
+- Here is a video for configure NETGEAR router: https://www.youtube.com/watch?v=wAI7vHZDkLw
 
 Enjoy playing and learning Mahjong!
 
@@ -153,5 +154,6 @@ Enjoy playing and learning Mahjong!
 - 请确保所有设备连接到同一 Wi-Fi，或正确设置好互联网端口转发。
 - 可以观察机器人玩家来学习国际麻将的流程和策略。
 - 这里有一个演示小视频：https://www.youtube.com/watch?v=SoXLYQctq8A
+- 这里是一个如何设置NETGEAR路由器的视频：https://www.youtube.com/watch?v=wAI7vHZDkLw
 
 祝你玩得开心，胡得漂亮！🀄
