@@ -50,9 +50,14 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
     - To form a CHOW you can tap the center tile discarded by your left hand player.
     - The center tile will move to your CHOW/PUNG/KONG display area.
     - Then you need to tap other two tiles in your hand to form CHOW, then discard a tile.
-11. Win
+11. Both Chow and Pung Available
+    - When it’s your turn to discard and you can both Chow and Pung the tile, you can click the center tile discarded by the player to your left.
+    - A pop-up window will first ask if you want to Pung or not. If you choose to Pung, the game will follow the Pung procedure.
+    - If you choose not to Pung, a second pop-up window will ask if you want to Chow or not. If you choose to Chow, the game will follow the Chow procedure.
+    - If you choose not to Chow, you can continue to draw a tile.
+12. Win
     - Play continues until someone wins and taps the "Bingo" button.
-12. Rejoing and Exiting
+13. Rejoing and Exiting
     - This Mahjong game has a screen sleep prevention feature. While playing, your phone or tablet will not automatically go to sleep.
     - After finishing a game, please tap the “Quit” button to restore your device’s automatic sleep function.
     - During a game, any swipe on the control panel or launching another application will automatically exit the Mahjong game.
@@ -136,11 +141,17 @@ Enjoy playing and learning Mahjong!
     - 要“吃”牌，可以点击左手玩家打出的中心牌。
     - 中心牌会移动到你的“吃/碰/杠”显示区域。
     - 然后点击手中另外两张可组成顺子的牌完成吃，再打出一张牌。
+      
+11. **同时有吃碰**
+    - 当轮到你出牌且同时可“吃”可“碰”牌时，可以点击左手玩家打出的中心牌。
+    - 弹出的窗口会先问你碰或者不碰，如果回答碰则按照碰牌的程序走。
+    - 如果回答不碰则会弹出第二个窗口问你吃或者不吃 如果回答吃则按吃牌程序走。
+    - 如果回答不吃则可以继续摸牌。
 
-11. **胡牌**
+12. **胡牌**
     - 玩家们将继续轮流出牌，直到有玩家胡牌并点击“胡牌”按钮。
 
-12. **重新加入和退出**
+13. **重新加入和退出**
     - 此麻将游戏设有防止自动熄屏功能，在打牌当中您的手机或平板电脑不会自动熄屏。
     - 打牌结束后请点击“退出”按钮，您的手机或电脑将恢复自动熄屏。
     - 在打牌当中任何控制板面的滑动或其它程序的启动都会自动退出麻将游戏。
@@ -154,6 +165,6 @@ Enjoy playing and learning Mahjong!
 - 请确保所有设备连接到同一 Wi-Fi，或正确设置好互联网端口转发。
 - 可以观察机器人玩家来学习国际麻将的流程和策略。
 - 这里有一个演示小视频：https://www.youtube.com/watch?v=SoXLYQctq8A
-- 这里是一个如何设置NETGEAR路由器的视频：https://www.youtube.com/watch?v=wAI7vHZDkLw
+- 这里是如何设置NETGEAR路由器端口转发的视频：https://www.youtube.com/watch?v=wAI7vHZDkLw
 
 祝你玩得开心，胡得漂亮！🀄
