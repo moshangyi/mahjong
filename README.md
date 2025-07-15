@@ -1,4 +1,10 @@
-# Mahjong
+# Mahjong-MOS Support information
+
+For any support issues please email us at **moshangyi@yahoo.com**.
+
+---
+
+# Mahjong Instructions
 
 This is a digital Mahjong game based on **International Mahjong Rules**.
 
