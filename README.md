@@ -75,9 +75,9 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 
 - Make sure all devices are connected to the same Wi-Fi or have correct port forwarding set up for Internet play.
 - Observe robot players to learn the flow and strategy of International Mahjong.
-- Here is a demo video for Solo play: https://www.youtube.com/watch?v=LcIrHsz8K60
-- Here is a demo video for Auto play: https://www.youtube.com/watch?v=kQHz0FtzTI0
-- Here is a video for configure NETGEAR router: https://www.youtube.com/watch?v=wAI7vHZDkLw
+- [Here](https://www.youtube.com/watch?v=LcIrHsz8K60) is a demo video for Solo play on Youtube.
+- [Here](https://www.youtube.com/watch?v=kQHz0FtzTI0) is a demo video for Solo Auto play on Youtube.
+- [Here](https://www.youtube.com/watch?v=t6dk-nQYe0Q) is a video for configure NETGEAR router and usage case of public IP on Youtube.
 
 Enjoy playing and learning Mahjong!
 
@@ -170,7 +170,7 @@ Enjoy playing and learning Mahjong!
 
 - 请确保所有设备连接到同一 Wi-Fi，或正确设置好互联网端口转发。
 - 可以观察机器人玩家来学习国际麻将的流程和策略。
-- 这里有一个演示小视频：https://www.youtube.com/watch?v=2WHzxIpLihI
-- 这里是如何设置NETGEAR路由器端口转发的视频：https://www.youtube.com/watch?v=wAI7vHZDkLw
+- [这里](https://www.youtube.com/watch?v=2WHzxIpLihI)有一个YouTube上的单人麻将演示小视频
+- [这里](https://www.youtube.com/watch?v=8KOc2oMc_0w)是如何设置NETGEAR路由器端口转发和如何使用公网IP案例的YouTube视频
 
 祝你玩得开心，胡得漂亮！🀄
