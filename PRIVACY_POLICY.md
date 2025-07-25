@@ -25,4 +25,4 @@ We may update this Privacy Policy from time to time. Changes will be posted here
 Contact Us:
 
 If you have any questions, please contact us at:
-moshangyi@no-reply.com
+moshangyi@yahoo.com
