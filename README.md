@@ -66,9 +66,9 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 13. Rejoing and Exiting
     - This Mahjong game has a screen sleep prevention feature. While playing, your phone or tablet will not automatically go to sleep.
     - After finishing a game, please tap the “Quit” button to restore your device’s automatic sleep function.
-    - During a game, any swipe on the control panel or launching another application will automatically exit the Mahjong game.
+    - During a game, any swipe on the control panel or launching another application will automatically reset the Mahjong game to initial state.
     - However, if you rejoin, you can continue playing from where you left off. (you can switch player with this function)
-    - If the player who runs the server (SVR:ON) exited you have to restart the game.
+    - If the player who runs the server (SVR:ON) has been reset you have to restart the game.
 ---
 
 ## 📱 Notes
