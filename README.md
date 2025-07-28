@@ -12,7 +12,7 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 
 - ✅ International Mahjong Rules — Play by standard international rules.
 - ✅ Flexible Multiplayer — Play with 1, 2, 3, or 4 players.
-- ✅ Local Wi-Fi Play — Play on the same local network: personal hotspot, Starbucks Wi-Fi, airport Wi-Fi, etc.
+- ✅ Local Wi-Fi Play — Play on the same local network: personal hotspot, Mobile HotSpot, Home Wi-Fi, etc.
 - ✅ Online Play — Play over the Internet by configuring port forwarding on your home router.
 - ✅ Beginner-friendly — Turn on robot players to watch and learn how to play International Mahjong.
 - ✅ Game Language — English and Chinese depending on your device settings or App language settings on Apple devices.
@@ -93,7 +93,7 @@ Enjoy playing and learning Mahjong!
 
 - ✅ **国际麻将规则** — 按照标准的国际麻将规则进行游戏。
 - ✅ **灵活的多人模式** — 支持 1、2、3 或 4 人对战。
-- ✅ **本地 Wi-Fi 对战** — 可在同一局域网中进行对战：如个人热点、咖啡店 Wi-Fi、机场 Wi-Fi 等。
+- ✅ **本地 Wi-Fi 对战** — 可在同一局域网中进行对战：如个人热点、移动热点、局域网 Wi-Fi 等。
 - ✅ **互联网对战** — 通过在家庭路由器上配置端口转发，可进行远程联网对战。
 - ✅ **适合初学者** — 可开启智能玩家通过观看和学习国际麻将的打法。
 - ✅ **支持多语言** — 根据设备或 Apple 设备上的 App 语言设置自动切换为英文或中文。
