@@ -22,10 +22,10 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 
 1. Select Play Mode
    - When you start the mahjong game the first thing is to select playing mode: Solo or Multiplayer.
-   - Solo: you will be assigned to N (North) seat and other three robots will joined automatically then jump to step 7 below. 
+   - Solo: you will be assigned to N (North) seat and other three robots will joined automatically.(go to step 7 below) 
    - Multiplayer: you will be ask if you want Host Game or Join Game
       - Host Game: you need to select a IP for other players please follow the instructions on the screen.
-      - Join Game: the app need to be granted permission of find devices on local network if the app join a game at first time.(go to step 4)
+      - Join Game: the app need to be granted permission of find devices on local network if the app join a game at first time.(then go to step 4)
 2. Host the Server (if you selected Multiplayer -> Host Game mode skip this step but you need to make sure your SVR is ON)
    - One player must start the server by tapping the "SVR" button to host the game (even for solo play).
    - Then tap the "Join" button to join as a player.
