@@ -20,28 +20,34 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 
 ## 🕹️ How to Start a Game
 
-1. Host the Server
+1. Select Play Mode
+   - When you start the mahjong game the first thing is to select playing mode: Solo or Multiplayer.
+   - Solo: you will be assigned to N (North) seat and other three robots will joined automatically then jump to step 7 below. 
+   - Multiplayer: you will be ask if you want Host Game or Join Game
+      - Host Game: you need to select a IP for other players please follow the instructions on the screen.
+      - Join Game: the app need to be granted permission of find devices on local network if the app join a game at first time.(go to step 4)
+2. Host the Server (if you selected Multiplayer -> Host Game mode skip this step but you need to make sure your SVR is ON)
    - One player must start the server by tapping the "SVR" button to host the game (even for solo play).
    - Then tap the "Join" button to join as a player.
-2. Get IP & Port
+3. Get IP & Port
    - After the server starts, an IP address and port number will appear in the message area, e.g., `192.168.1.8:53842`.
-3. Other Players Join
+4. Other Players Join
    - Up to 3 other players enter the host's IP and port in their message area and tap Join button to connect.
-4. For Solo Play
+5. For Solo Play (if at start you selected Solo mode you can skip this step)
    - Tap the other 3 seat labels marked "A" (available). They will change to "O" (occupied).
-5. Seat Assignment
+6. Seat Assignment
    - When all seats are occupied, each seat will be assigned one of the four winds: East(E), South(S), West(W), or North(N).
-6. Start the Game
+7. Start the Game
    - Whoever taps the Shuffle button first will become the dealer.
    - Tap the Dice button to roll the dice.
    - Tap the head tile on the wall to break it.
-7. Flowers
+8. Flowers
    - If you have flower tiles, claim them by tapping the tile, then tap the "Tail" button to get a replacement tile.
    - If you have no flowers, next player will get his/her turn automatically.
-8. Play
+9. Play
    - The dealer discards a tile (the first dicarded tile) by tapping it.
    - The next player draws a tile by tapping "Head", then discards one.
-9. Pung
+10. Pung
    - When you have a PUNG or KONG your massage area will turn to purple color and the center tile will flashing, you can stop others by tap center tile.
    - To do so you will reveal that you have 2 or 3 the same tiles. If you don't need the PUNG/KONG, do nothing (hide information).
    - Then in the popup window, you will make a dicision if you really want PUNG/KONG.
@@ -52,18 +58,18 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
    - If you formed a KONG you need to tap the tail button to get a replacement.
    - Then you discard a tile in your hand by tap it.
    - ⚠️If current player discards a tile before you tap the center tile, you will lose the PUNG oppertunity.
-10. Chow
+11. Chow
     - To form a CHOW you can tap the center tile discarded by your left hand player.
     - The center tile will move to your CHOW/PUNG/KONG display area.
     - Then you need to tap other two tiles in your hand to form CHOW, then discard a tile.
-11. Both Chow and Pung Available
+12. Both Chow and Pung Available
     - When it’s your turn to discard and you can both Chow and Pung the tile, you can click the center tile discarded by the player to your left.
     - A pop-up window will first ask if you want to Pung or not. If you choose to Pung, the game will follow the Pung procedure.
     - If you choose not to Pung, a second pop-up window will ask if you want to Chow or not. If you choose to Chow, the game will follow the Chow procedure.
     - If you choose not to Chow, you can continue to draw a tile.
-12. Win
+13. Win
     - Play continues until someone wins and taps the "Bingo" button.
-13. Rejoing and Exiting
+14. Rejoing and Exiting
     - This Mahjong game has a screen sleep prevention feature. While playing, your phone or tablet will not automatically go to sleep.
     - After finishing a game, please tap the “Quit” button to restore your device’s automatic sleep function.
     - During a game, any swipe on the control panel or launching another application will automatically reset the Mahjong game to initial state.
@@ -102,36 +108,42 @@ Enjoy playing and learning Mahjong!
 
 ## 🕹️ 如何开始游戏
 
-1. **开启服务器**
+1. **选择游戏模式**
+   - 当您启动麻将游戏时，首先需要选择游戏模式：单人麻将或多人麻将。
+   - 单人麻将：您将被分配到北（N）家位置，其余三位机器人会自动加入，然后跳到下面的第7步。
+   - 多人麻将：系统会询问您是否要提供麻将桌或加入麻将桌
+      - 提供麻将桌：您需要选择一个供其他玩家连接的IP，请按照屏幕上的说明操作。
+      - 加入麻将桌：如果是首次加入麻将桌，需要获得在本地网络中查找设备的权限。(给予后跳到第4步)
+2. **开启服务器**（如果您选择了多人模式->创建游戏模式，可跳过此步骤但要确认您的伺服是开启状态）
    - 4 个玩家中，必须有 1 个玩家点击 “伺服” 按钮来开启服务器（即使是单人也需要开启伺服器）。
    - 然后点击 “加入” 按钮加入游戏。
 
-2. **获取 IP 和端口**
+3. **获取 IP 和端口**
    - 服务器开启后，信息区会显示IP地址和端口号，例如 `192.168.1.8:53842`。
 
-3. **其他玩家加入**
+4. **其他玩家加入**
    - 其余(最多三个)玩家在信息区输入第一个玩家的IP和端口，然后点击“加入”按钮加入牌桌。
 
-4. **单人模式**
+5. **单人模式**(如果开始时选择了单人麻将，可跳过此步骤）
    - 如果是单人模式，需要点击其他三个标记为“空”的座位标签，点击后标记会变为“占”（已占用）。
 
-5. **座位分配**
+6. **座位分配**
    - 所有座位都被占用后，系统会将四个风位分配给每个玩家：东、南、西、北。
 
-6. **开始对局**
+7. **开始对局**
    - 第一个点击“洗牌”按钮的人将成为庄家。
    - 庄家掷骰，点击俩个“骰子”当中的一个。
    - 庄家发牌，点击牌墙上标有“牌头”的那张牌。
 
-7. **补花**
+8. **补花**
    - 如果有花牌，先点击花牌然后点击“牌尾”按钮补牌。
    - 如果没有花牌，下家自动获得出牌权。
 
-8. **首轮出牌**
+9. **首轮出牌**
    - 庄家点击手中的一张牌打出第一张牌。
    - 下一家点击“牌头”按钮摸牌，然后打出一张牌。
 
-9. **碰**
+10. **碰**
    - 如果你有可“碰”或“杠”之牌，信息区会变为浅紫色而且中心牌会闪动，你可以点击中心牌阻止其他玩家摸牌。
    - 此时你也透露了自己有二张或三张相同的牌。如果不需要碰/杠，可以什么都不做以免泄露牌的信息。
    - 弹出窗口会让你确认是否要碰/杠。
@@ -143,21 +155,21 @@ Enjoy playing and learning Mahjong!
    - 最后从手中打出一张牌。
    - ⚠️如果目前的玩家在你点击中心牌之前完成出牌，你将失去这次碰牌的机会。
 
-10. **吃**
+11. **吃**
     - 要“吃”牌，可以点击左手玩家打出的中心牌。
     - 中心牌会移动到你的“吃/碰/杠”显示区域。
     - 然后点击手中另外两张可组成顺子的牌完成吃，再打出一张牌。
       
-11. **同时有吃碰**
+12. **同时有吃碰**
     - 当轮到你出牌且同时可“吃”可“碰”牌时，可以点击左手玩家打出的中心牌。
     - 弹出的窗口会先问你碰或者不碰，如果回答碰则按照碰牌的程序走。
     - 如果回答不碰则会弹出第二个窗口问你吃或者不吃 如果回答吃则按吃牌程序走。
     - 如果回答不吃则可以继续摸牌。
 
-12. **胡牌**
+13. **胡牌**
     - 玩家们将继续轮流出牌，直到有玩家胡牌并点击“胡牌”按钮。
 
-13. **重新加入和退出**
+14. **重新加入和退出**
     - 此麻将游戏设有防止自动熄屏功能，在打牌当中您的手机或平板电脑不会自动熄屏。
     - 打牌结束后请点击“退出”按钮，您的手机或电脑将恢复自动熄屏。
     - 在打牌当中任何控制板面的滑动或其它程序的启动都会自动初始化麻将游戏您需要重新启动伺服器或加入牌桌。
