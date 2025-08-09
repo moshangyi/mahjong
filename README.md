@@ -14,26 +14,26 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 - ✅ Flexible Multiplayer — Play with 1, 2, 3, or 4 players.
 - ✅ Local Wi-Fi Play — Play on the same local network: personal hotspot, Mobile HotSpot, Home Wi-Fi, etc.
 - ✅ Online Play — Play over the Internet by configuring port forwarding on your home router.
-- ✅ Beginner-friendly — Turn on robot players to watch and learn how to play International Mahjong.
-- ✅ Game Language — English and Chinese depending on your device settings or App language settings on Apple devices.
+- ✅ Beginner-friendly — Turn on computer-controlled players to watch and learn how to play International Mahjong.
+- ✅ Multilingual — English or Chinese depending on your device settings or App language settings on Apple devices.
 
 
 ## 🕹️ How to Start a Game
 
 1. Select Play Mode
-   - When you start the mahjong game the first thing is to select playing mode: Solo or Multiplayer.
-   - Solo: you will be assigned to N (North) seat and other three robots will joined automatically.(go to step 7 below) 
-   - Multiplayer: you will be ask if you want Host Game or Join Game
-      - Host Game: you need to select a IP for other players please follow the instructions on the screen.
-      - Join Game: the app need to be granted permission of find devices on local network if the app join a game at first time.(then go to step 4)
-2. Host the Server (if you selected Multiplayer -> Host Game mode skip this step but you need to make sure your SVR is ON)
+   - When you start the mahjong game, the first thing is to select the play mode: Solo or Multiplayer.
+   - Solo: you will be assigned to the N (North) seat and three computer-controlled players will join automatically. (Then go to step 7 below)
+   - Multiplayer: you will be asked if you want to Host Game or Join Game
+      - Host Game: you need to select an IP for the other players; please follow the instructions on the screen.
+      - Join Game: during the first ever attempt to join a game, the app needs to be granted permission to find devices on the local network. (Then go to step 4)
+2. Host the Server (if you selected Multiplayer -> Host Game mode, skip this step but you need to make sure your SVR is ON)
    - One player must start the server by tapping the "SVR" button to host the game (even for solo play).
    - Then tap the "Join" button to join as a player.
 3. Get IP & Port
-   - After the server starts, an IP address and port number will appear in the message area, e.g., `192.168.1.8:53842`.
+   - After the server starts, an IP address and port number will appear in the message area, e.g. `192.168.1.8:53842`.
 4. Other Players Join
-   - Up to 3 other players enter the host's IP and port in their message area and tap Join button to connect.
-5. For Solo Play (if at start you selected Solo mode you can skip this step)
+   - Up to 3 other players enter the host's IP and port in their message area and tap the Join button to connect.
+5. For Solo Play (if you selected Solo mode you can skip this step)
    - Tap the other 3 seat labels marked "A" (available). They will change to "O" (occupied).
 6. Seat Assignment
    - When all seats are occupied, each seat will be assigned one of the four winds: East(E), South(S), West(W), or North(N).
@@ -48,22 +48,22 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
    - The dealer discards a tile (the first dicarded tile) by tapping it.
    - The next player draws a tile by tapping "Head", then discards one.
 10. Pung
-   - When you have a PUNG or KONG your massage area will turn to purple color and the center tile will flashing, you can stop others by tap center tile.
-   - To do so you will reveal that you have 2 or 3 the same tiles. If you don't need the PUNG/KONG, do nothing (hide information).
-   - Then in the popup window, you will make a dicision if you really want PUNG/KONG.
-   - If the answer is NO other players would been released.
-   - If the answer is YES you will be ask if you want PUNG or KONG if you have 3 same tiles as the one discarded by others.
-   - After you tap YES the center tile (discarded by others) will move to your CHOW/PUNG/KONG display area.
+   - When you have a PUNG or KONG your message area will turn purple and the center tile will flash; you can stop the other players by tapping the center tile.
+   - To do so, you will reveal that you have 2 or 3 of the same tile. If you don't need the PUNG/KONG, do nothing (hide information).
+   - Then in the popup window, you will decide if you really want PUNG/KONG.
+   - If the answer is NO, the other players can continue.
+   - If the answer is YES, you will be ask if you want PUNG, or KONG if you have 3 copies of the discarded tile.
+   - After you tap YES the center tile (discarded by another player) will move to your CHOW/PUNG/KONG display area.
    - Then you need to tap the same tiles in your hand to form PUNG or KONG.
    - If you formed a KONG you need to tap the tail button to get a replacement.
-   - Then you discard a tile in your hand by tap it.
-   - ⚠️If current player discards a tile before you tap the center tile, you will lose the PUNG oppertunity.
+   - Then you discard a tile in your hand by tapping it.
+   - ⚠️If the current player discards a tile before you tap the center tile, you will lose the PUNG oppertunity.
 11. Chow
-    - To form a CHOW you can tap the center tile discarded by your left hand player.
+    - To form a CHOW you can tap the center tile discarded by the player to your left.
     - The center tile will move to your CHOW/PUNG/KONG display area.
     - Then you need to tap other two tiles in your hand to form CHOW, then discard a tile.
 12. Both Chow and Pung Available
-    - When it’s your turn to discard and you can both Chow and Pung the tile, you can click the center tile discarded by the player to your left.
+    - When it’s your turn and you can both Chow and Pung the discarded tile, you can click the center tile discarded by the player to your left.
     - A pop-up window will first ask if you want to Pung or not. If you choose to Pung, the game will follow the Pung procedure.
     - If you choose not to Pung, a second pop-up window will ask if you want to Chow or not. If you choose to Chow, the game will follow the Chow procedure.
     - If you choose not to Chow, you can continue to draw a tile.
@@ -72,15 +72,15 @@ This is a digital Mahjong game based on **International Mahjong Rules**.
 14. Rejoing and Exiting
     - This Mahjong game has a screen sleep prevention feature. While playing, your phone or tablet will not automatically go to sleep.
     - After finishing a game, please tap the “Quit” button to restore your device’s automatic sleep function.
-    - During a game, any swipe on the control panel or launching another application will automatically reset the Mahjong game to initial state.
+    - During a game, any swipe on the control panel or launching another application will automatically reset the Mahjong game to the starting state.
     - However, if you rejoin, you can continue playing from where you left off. (you can switch player with this function)
-    - If the player who runs the server (SVR:ON) has been reset you have to restart the game.
+    - If the player who runs the server (SVR:ON) leaves the game, you will have to restart the game.
 ---
 
 ## 📱 Notes
 
 - Make sure all devices are connected to the same Wi-Fi or have correct port forwarding set up for Internet play.
-- Observe robot players to learn the flow and strategy of International Mahjong.
+- Observe computer-controlled players to learn the flow and strategy of International Mahjong.
 - [Here](https://www.youtube.com/watch?v=LcIrHsz8K60) is a demo video for Solo play on Youtube.
 - [Here](https://www.youtube.com/watch?v=kQHz0FtzTI0) is a demo video for Solo Auto play on Youtube.
 - [Here](https://www.youtube.com/watch?v=t6dk-nQYe0Q) is a video for configure NETGEAR router and usage case of public IP on Youtube.
@@ -101,7 +101,7 @@ Enjoy playing and learning Mahjong!
 - ✅ **灵活的多人模式** — 支持 1、2、3 或 4 人对战。
 - ✅ **本地 Wi-Fi 对战** — 可在同一局域网中进行对战：如个人热点、移动热点、局域网 Wi-Fi 等。
 - ✅ **互联网对战** — 通过在家庭路由器上配置端口转发，可进行远程联网对战。
-- ✅ **适合初学者** — 可开启智能玩家通过观看和学习国际麻将的打法。
+- ✅ **适合初学者** — 可开启智能玩家通过观看学习国际麻将的打法。
 - ✅ **支持多语言** — 根据设备或 Apple 设备上的 App 语言设置自动切换为英文或中文。
 
 ---
